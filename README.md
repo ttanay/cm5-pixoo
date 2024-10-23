@@ -1,13 +1,14 @@
 # CM5-Pixoo
 A small project to project the CPU usage of your machine onto a Pixoo display device.
 
-![demo](demo_medium.gif)
-![actual_panel](actual_panel_small.gif)
+![demo](./demo.png)
+
+![actual_panel](./actual_panel_small.gif)
 
 This is inspired by the Connection Machine supercomputer from the 1980s(it looks damn cool!).
 It's front panels show the status lights of each CPU it housed and turned on whenever a CPU was being used.
 
-![cm5](cm2-500.jpg)
+![cm5](./cm2-500.jpg)
 
 This was made during the Recurse Center Hackathon in Bangalore in May of 2024.
 
